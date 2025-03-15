@@ -1,0 +1,7 @@
+Attention_Sentiment/
+├── .streamlit/
+│   ├── secrets.toml       # 存储加密后的账号密码
+│   └── config.toml        # 页面配置（可选）
+├── data/                  # 论文数据（设为私有）
+│   └── papers.csv
+└── app.py                 # 主程序
